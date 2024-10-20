@@ -1,0 +1,15 @@
+addict
+future
+lmdb
+numpy==1.26.4
+opencv-python
+Pillow
+pyyaml
+requests
+scikit-image
+scipy
+tb-nightly
+tqdm
+yapf
+transformers==4.37.2
+einops
