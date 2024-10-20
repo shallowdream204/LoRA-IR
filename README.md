@@ -1,7 +1,7 @@
 <div align="center">
 
 <div class="logo">
-      <img src="assets/logo_lora.png" style="width:200px">
+      <img src="assets/logo_lora.png" style="width:180px">
    </a>
 </div>
 
