@@ -28,7 +28,7 @@
 <div>
     <h4 align="center">
         <a href="" target='_blank'>
-        <img src="https://img.shields.io/badge/arXiv%20paper--b31b1b.svg">
+        <img src="https://img.shields.io/badge/arXiv%20paper-2410.15385-b31b1b.svg">
         </a>
         <a href="https://huggingface.co/shallowdream204/LoRA-IR/tree/main" target='_blank'>
         <img src="https://img.shields.io/badge/🤗%20Weights-LoRA--IR-yellow">
@@ -106,6 +106,7 @@ If you find our work useful for your research, please consider citing our paper:
 @article{ai2024lora,
       title={LoRA-IR: Taming Low-Rank Experts for Efficient All-in-One Image Restoration},
       author={Ai, Yuang and Huang, Huaibo, and He, Ran},
+      journal={arXiv preprint arXiv:2410.15385},
       year={2024}
 }
 ```
