@@ -27,7 +27,7 @@
 
 <div>
     <h4 align="center">
-        <a href="" target='_blank'>
+        <a href="https://arxiv.org/abs/2410.15385" target='_blank'>
         <img src="https://img.shields.io/badge/arXiv%20paper-2410.15385-b31b1b.svg">
         </a>
         <a href="https://huggingface.co/shallowdream204/LoRA-IR/tree/main" target='_blank'>
