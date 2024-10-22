@@ -1,5 +1,5 @@
 ## Dataset Preparation
-Please download the allweather dataset providied in [Histoformer](https://github.com/sunshangquan/Histoformer).
+Please download the allweather dataset provided in [Histoformer](https://github.com/sunshangquan/Histoformer).
 
 ## Train
 
