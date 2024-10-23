@@ -105,7 +105,7 @@ If you find our work useful for your research, please consider citing our paper:
 ```
 @article{ai2024lora,
       title={LoRA-IR: Taming Low-Rank Experts for Efficient All-in-One Image Restoration},
-      author={Ai, Yuang and Huang, Huaibo, and He, Ran},
+      author={Ai, Yuang and Huang, Huaibo and He, Ran},
       journal={arXiv preprint arXiv:2410.15385},
       year={2024}
 }
