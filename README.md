@@ -33,6 +33,7 @@
         <a href="https://huggingface.co/shallowdream204/LoRA-IR/tree/main" target='_blank'>
         <img src="https://img.shields.io/badge/🤗%20Weights-LoRA--IR-yellow">
         </a>
+        <img src="https://visitor-badge.laobi.icu/badge?page_id=shallowdream204/LoRA-IR">
     </h4>
 </div>
 
