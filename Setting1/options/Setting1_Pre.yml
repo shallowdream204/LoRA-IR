@@ -15,8 +15,8 @@ datasets:
   train:
     name: All-Train
     type: AllInOneCLIPDataset
-    dataroot_gt: ['/path/to/snow/gt','/path/to/rain/gt,'/path/to/raindrop/gt'] #need to modify
-    dataroot_lq:  ['/path/to/snow/lq','/path/to/rain/lq,'/path/to/raindrop/lq'] #need to modify
+    dataroot_gt: ['/path/to/snow/gt','/path/to/rain/gt','/path/to/raindrop/gt'] #need to modify
+    dataroot_lq: ['/path/to/snow/lq','/path/to/rain/lq','/path/to/raindrop/lq'] #need to modify
 
     filename_tmpl: '{}'
     io_backend:
